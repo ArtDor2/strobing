@@ -5,6 +5,8 @@ Causes more flickering than the natural strobing on a CRT (because the entire sc
 
 Demo of black frame insertion at Blur Busters (works on any hz monitor including 60hz standard) https://www.testufo.com/blackframes
 
+![Image of strobing](https://github.com/ArtDor2/strobing/blob/master/strobing%20demo.png)
+
 TO-DO:
 - [ ] try alpha for black fill for reduced flicker
 - [ ] fix stuttering
